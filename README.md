@@ -1,3 +1,15 @@
 # GENERATIVE-TEXT-MODEL
 
+*NAME*: POTHARAJU BHAVYA
+
+*INTERN ID*: CT04DN35
+
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 4WEEKS
+
+*MENTOR*:NEELA SANTOSH KUMAR
+
+#OUTPUT
+
 <img width="803" alt="Image" src="https://github.com/user-attachments/assets/fbc970a7-7319-40e2-91b3-ab54e5fc4e56" />
